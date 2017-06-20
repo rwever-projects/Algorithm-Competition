@@ -13,6 +13,7 @@ Given unspecified array of data, design and compare different approaches, and im
 - #### Powerpoint presentation https://github.com/rwever-projects/Algorithm-Competition/blob/master/CST250_Final_Project_Group6.pptx
 - #### Video presentation https://www.youtube.com/watch?v=jFdGXaw1Pss&feature=youtu.be
 #### Personal Result: 1st Place
+##### Other group result: Bubble Sort-3rd Place
 
 ### Competition Results
 ![Competition results screenshot](https://github.com/rwever-projects/Algorithm-Competition/blob/master/Sorting_Competition.png)
