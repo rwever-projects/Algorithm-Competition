@@ -8,4 +8,4 @@ Given unspecified array of data, design and compare different approaches, and im
 #### Result: 1st Place
 
 ### Competition Results
-![Eliza screenshot](https://github.com/rwever-projects/Eliza/blob/master/Eliza_Screenshot.png)
+![Competition results screenshot](https://github.com/rwever-projects/Algorithm-Competition/blob/master/Sorting_Competition.png)
