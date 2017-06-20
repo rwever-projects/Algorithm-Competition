@@ -10,7 +10,8 @@ Given unspecified array of data, design and compare different approaches, and im
 #### Authored wildcard sorting method: QUICKSORT (recursive).
 #### Other:
 - #### Optimized all algorithms
-- #### Powerpoint presentation and video presentation
+- #### Powerpoint presentation https://github.com/rwever-projects/Algorithm-Competition/blob/master/CST250_Final_Project_Group6.pptx
+- #### Video presentation https://www.youtube.com/watch?v=jFdGXaw1Pss&feature=youtu.be
 #### Personal Result: 1st Place
 
 ### Competition Results
